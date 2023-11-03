@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Travel
+http://23.237.104.106:8080/USA_TRAVEL/mpegts
+#EXTM3U url-tvg="dvptv.com"
+#EXTINF:-1 tvg-id="[DVP-TV]" tvg-name="DVP-TV" tvg-logo="tvlog.dvptv.com/tv.png" group-title="Entertainment",DVP-TV
+https://live.dvptv.com:3819/hybrid/play.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.159.74.14:80/CartoonNetwork/index.m3u8
+#EXTINF:-1,Boomerang
+http://45.159.74.14:80/Boomerang/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/mpegts
+#EXTINF:-1,TNT
+http://23.237.104.106:8080/USA_TNT/index.m3u8
+#EXTINF:-1,GSN
+http://23.237.104.106:8080/USA_GSN/index.m3u8
+#EXTINF:-1,Freeform
+http://23.237.104.106:8080/USA_FREEFORM/index.m3u8
+#EXTINF:-1,FOX News
+http://23.237.104.106:8080/USA_FOX_NEWS/mpegts
+#EXTINF:-1,FOX Business
+http://23.237.104.106:8080/USA_FOX_BUSINESS/mpegts
+#EXTINF:-1,FOX
+http://23.237.104.106:8080/USA_FOX/mpegts
+#EXTINF:-1,E!
+http://23.237.104.106:8080/USA_E!/index.m3u8
+#EXTINF:-1,Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/mpegts
+#EXTINF:-1,Disney
+http://23.237.104.106:8080/USA_DISNEY/index.m3u8
+
